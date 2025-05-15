@@ -1,8 +1,16 @@
 # ProductStarStudy
-echo "# ProductStarStudy" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Jelisei-single/ProductStarStudy.git
-git push -u origin main
+
+## Описание
+**ProductStarStudy** — учебный проект для освоения основ Git и GitHub.  
+Здесь отрабатываются навыки: создание репозитория, работа с коммитами, ветвлением, слиянием и оформлением README-файла.
+
+## Стек технологий
+- Git
+- GitHub
+- Markdown
+
+## Как начать работу
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/Jelisei-single/ProductStarStudy.git
